@@ -5,7 +5,7 @@ DB Migration (MSSQL <-> TMAX(Use Web))
  - Reserve....
    
 LPR Parse
- - Parking Car In, Out Dat
+ - Parking Car In, Out Data
 
 WebSocket
  - Migration, Parse data -> Send, Receive Process
